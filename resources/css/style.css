@@ -31,7 +31,10 @@ h3 {
 
 h4 {
   display: inline;
-  text-decoration: underline;
+}
+
+a {
+  color: white;
 }
 
 .process p {
